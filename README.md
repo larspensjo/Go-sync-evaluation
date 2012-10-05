@@ -28,4 +28,4 @@ will be printed in the log.
 
 ## Copyright and licensing
 
-Distributed under GNU General Public License.
+Distributed under GNU Lesser General Public License.
